@@ -1,0 +1,9 @@
+node_modules
+dist
+.DS_Store
+*.log
+# public/data
+trajectories
+trajectories-html
+generate_trajectory_html.py
+vis
